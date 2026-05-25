@@ -1,8 +1,11 @@
-Thank you for using our template!
+# Ivoryaura Rentals
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Rental website project created using HTML, CSS, Bootstrap and JavaScript.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+## Features
+- Responsive design
+- Property listings
+- Modern UI
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+## Author
+Reema
